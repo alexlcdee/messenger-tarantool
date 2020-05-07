@@ -5,8 +5,6 @@ declare(strict_types=1);
 namespace AlexLcDee\Messenger\Tarantool\Tarantool;
 
 
-use Tarantool\Client\Client;
-
 /**
  * Class ExtensionClientFactory
  * @package AlexLcDee\Messenger\Tarantool\Tarantool
